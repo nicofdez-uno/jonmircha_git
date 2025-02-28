@@ -1,0 +1,1 @@
+console.log('Haciendo el capullo desde múltiples puntos de vista')
