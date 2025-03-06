@@ -1,0 +1,92 @@
+commit 107eb76d38e731d9bf182258b0a1ac06d4ca5438
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 14:03:41 2025 +0100
+
+    Agregados dos nuevos párrafos
+
+commit 5742a16936943f692aacfeb7c69fb3be3f78a542
+Merge: a569163 2a8210d
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 13:59:34 2025 +0100
+
+    Resuelto conflicto en estaciones del año/fechas de inicio
+
+commit a569163c729859def4cb589bde127fe27a976935
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 13:38:48 2025 +0100
+
+    Agregadas estaciones del año con fecha de inicio
+
+commit 2a8210d064d37f3478b610e7c37e336d979c0fc6
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 13:38:48 2025 +0100
+
+    Agregada lista de estaciones del año
+
+commit 861b86a51bf48db6d784ec5942764e939bb98c78
+Merge: 22b2058 a2f9442
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 13:33:27 2025 +0100
+
+    Resuelto conflicto merge main/html en index.html
+
+commit a2f94429ef84bd6cc699e509e869f9260d8ddc5e
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 13:27:48 2025 +0100
+
+    Agregado enlace a index.js y ol en index.html
+
+commit 22b2058a256233f8a8fc319d21c0fa4f4f91251a
+Author: nico <bichiteca@gmail.com>
+Date:   Mon Mar 3 13:23:44 2025 +0100
+
+    Agregadas hoja de estilos y ul a index.html
+
+commit ce21a6a2bbbc45e42a791f0eed9da73d2959bfd2
+Merge: 46ada6c 6789e1f
+Author: nico <bichiteca@gmail.com>
+Date:   Fri Feb 28 18:32:44 2025 +0100
+
+    Merge branch 'js'
+
+commit 6789e1f2d7851969252ac93e9ff872a8071fbf91
+Author: nico <bichiteca@gmail.com>
+Date:   Fri Feb 28 18:27:59 2025 +0100
+
+    Creado archivo index.js
+
+commit 46ada6ce7c60aa05168066e6cae51b7a9735d63d
+Author: nico <bichiteca@gmail.com>
+Date:   Fri Feb 28 18:23:30 2025 +0100
+
+    Creado archivo css
+
+commit 3e1ef98b21cd82fa6124508a2155c2a364e399cc
+Author: nico <bichiteca@gmail.com>
+Date:   Fri Feb 28 18:17:49 2025 +0100
+
+    Creado archivo index.html
+
+commit d640c796167b176e390a109d913a905fc9ffec53
+Author: nico <bichiteca@gmail.com>
+Date:   Wed Feb 26 18:31:49 2025 +0100
+
+    Ignora los archivos txt
+
+commit a8af53a25ee17c8cc2be34a08d7d6a98a570c8fd
+Author: nicofdez-uno <bichiteca@gmail.com>
+Date:   Wed Feb 26 18:03:14 2025 +0100
+
+    Añade licencia al repositorio
+
+commit efbbd8dbf0dffa2c78c29983bb926ea827160321
+Author: nico <bichiteca@gmail.com>
+Date:   Wed Feb 26 17:55:29 2025 +0100
+
+    Agrega nuevas tonterías al README
+
+commit 24f9e85348f40ef6ce4dee367c1c94c5d56c98a1
+Author: nico <nicostaki@gmail.com>
+Date:   Wed Feb 26 17:10:40 2025 +0100
+
+    Primer commit

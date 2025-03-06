@@ -1,0 +1,22 @@
+* 107eb76 Agregados dos nuevos párrafos
+*   5742a16 Resuelto conflicto en estaciones del año/fechas de inicio
+|\  
+| * 2a8210d Agregada lista de estaciones del año
+* | a569163 Agregadas estaciones del año con fecha de inicio
+|/  
+*   861b86a Resuelto conflicto merge main/html en index.html
+|\  
+| * a2f9442 Agregado enlace a index.js y ol en index.html
+* | 22b2058 Agregadas hoja de estilos y ul a index.html
+* |   ce21a6a Merge branch 'js'
+|\ \  
+| * | 6789e1f Creado archivo index.js
+* | | 46ada6c Creado archivo css
+| |/  
+|/|   
+* | 3e1ef98 Creado archivo index.html
+|/  
+* d640c79 Ignora los archivos txt
+* a8af53a Añade licencia al repositorio
+* efbbd8d Agrega nuevas tonterías al README
+* 24f9e85 Primer commit
