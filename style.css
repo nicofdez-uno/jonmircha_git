@@ -1,5 +1,18 @@
 html{
   background-color: black;
   color: white;
+  font-family:Impact, Haettenschweiler, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+a{
+  color: darkred;
+}
+
+a:hover{
+  color: firebrick;
+}
+img{
+  max-width:100%;
 }
 
