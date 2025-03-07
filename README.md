@@ -3,3 +3,5 @@
 Holaaaa, pasa, pasa
 
 Aun pueden caber muchas, muchísimas más tonterías
+
+Lanzamos la versión oficial **1.0.0**
